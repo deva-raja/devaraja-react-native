@@ -1,0 +1,18 @@
+import React from 'react';
+import { Image, Text, View } from 'react-native';
+
+const EngageSpot = () => {
+  return (
+    <View>
+      <Text>Some more text</Text>
+      <Image
+        source={{
+          uri: 'https://reactnative.dev/docs/assets/p_cat2.png',
+        }}
+        style={{ width: 200, height: 200 }}
+      />
+    </View>
+  );
+};
+
+export default EngageSpot;
