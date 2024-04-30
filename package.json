@@ -1,5 +1,5 @@
 {
-  "name": "@devaraja/react-native",
+  "name": "react-native-devaraja",
   "version": "0.1.0",
   "description": "Test app for react native",
   "main": "lib/commonjs/index",
