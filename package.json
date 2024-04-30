@@ -1,6 +1,6 @@
 {
   "name": "react-native-devaraja",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Test app for react native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -39,16 +39,11 @@
     "ios",
     "android"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/deva-raja/devaraja-react-native.git"
-  },
   "author": "Vinu Devaraj <vinu.devaraj@logidots.com> (https://github.com/deva-raja)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/deva-raja/devaraja-react-native/issues"
   },
-  "homepage": "https://github.com/deva-raja/devaraja-react-native#readme",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
