@@ -50,6 +50,7 @@
   },
   "homepage": "https://github.com/deva-raja/devaraja-react-native#readme",
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
