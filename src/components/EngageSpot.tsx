@@ -1,10 +1,10 @@
 import React from 'react';
 import { Image, Text, View } from 'react-native';
 
-const EngageSpot = () => {
+const EngageSpot = ({ text }: { text: string }) => {
   return (
     <View>
-      <Text>Some more text</Text>
+      <Text>{text}</Text>
       <Image
         source={{
           uri: 'https://reactnative.dev/docs/assets/p_cat2.png',
